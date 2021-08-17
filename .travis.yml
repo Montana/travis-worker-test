@@ -1,0 +1,6 @@
+arch: arm64
+dist: bionic
+
+script:
+  - uname -a
+  - free
